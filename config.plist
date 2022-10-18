@@ -18,14 +18,7 @@
 			
 			
 			
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-HPET.aml</string>
-				<key>Path</key>
-				<string>SSDT-HPET.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
+			
 			<dict>
 				<key>Comment</key>
 				<string>SSDT-I2C.aml</string>
