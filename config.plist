@@ -16,14 +16,7 @@
 				<true/>
 			</dict>
 			
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-GPI0.aml</string>
-				<key>Path</key>
-				<string>SSDT-GPI0.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
+			
 			<dict>
 				<key>Comment</key>
 				<string>SSDT-GPRW.aml</string>
